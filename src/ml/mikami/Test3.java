@@ -12,7 +12,7 @@ public class Test3 {
         System.out.println("Test Conflict 53");
         System.out.println("Test Conflict 63");
         System.out.println("Test Conflict 7");
-        System.out.println("¸øÆ¤·ô¸É");
+        System.out.println("ç»™çš®è‚¤å¹²");
     }
 
 }
