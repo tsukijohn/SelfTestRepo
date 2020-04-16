@@ -12,7 +12,7 @@ public class Test3 {
         System.out.println("Test Conflict 53");
         System.out.println("Test Conflict 63");
         System.out.println("Test Conflict 7");
-        System.out.println("䶏");
+        System.out.println("锟�5锟�1");
     }
 
 }
